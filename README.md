@@ -6,6 +6,6 @@ OrcaFlex, Python and PySimpleGUI installation required. See LinkedIn post for re
 (x)
 (https://realpython.com/pysimplegui-python/)
 (www.orcina.com/news/an-introduction-to-the-python-interface-to-orcaflex/)
-
+(https://www.linkedin.com/pulse/building-floating-wind-cable-digital-twin-orcaflex-will-brindley)
 
 
